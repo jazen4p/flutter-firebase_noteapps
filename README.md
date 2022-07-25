@@ -1,16 +1,14 @@
-# firenotes_app
+# Firebase and Flutter Notes Application
 
-A new Flutter project.
+Created simple app with CRUD function
 
-## Getting Started
+# This is video of project
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/46961710/180741194-52267c6c-5a8c-4acc-b4de-d76b4ba7f966.mp4
 
-A few resources to get you started if this is your first Flutter project:
+# This is video of Firebase database (Successful attempt)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://user-images.githubusercontent.com/46961710/180741605-c00c8dce-3bcf-4d9d-b0ee-a5f2a1df6d24.mp4
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Thank you, and I'm open to suggestions
+jazen4p@gmail.com
