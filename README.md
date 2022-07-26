@@ -8,9 +8,13 @@ https://drive.google.com/file/d/1Yrop-CVaYdV-efUR22ZkCfdqGWR55F4s/view?usp=shari
 
 I want to upload to Google Play Store, but to make dev account i have to pay $25, which is too pricey for me. :)
 
-Created simple app with CRUD function
+# Next Release
+
+Contain delete and edit function
 
 # This is video of project
+
+Created simple app with CRUD function
 
 https://user-images.githubusercontent.com/46961710/180741194-52267c6c-5a8c-4acc-b4de-d76b4ba7f966.mp4
 
