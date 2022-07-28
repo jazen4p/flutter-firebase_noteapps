@@ -4,7 +4,7 @@
 
 This app has APK now, so people can try it. I build it with Flutter Android Builder (Android Only)
 
-https://drive.google.com/file/d/1Yrop-CVaYdV-efUR22ZkCfdqGWR55F4s/view?usp=sharing
+https://drive.google.com/file/d/1WJrh5EuSMrxsafVwEgFnFWZ4X7KOoreZ/view?usp=sharing
 
 I want to upload to Google Play Store, but to make dev account i have to pay $25, which is too pricey for me. :)
 
